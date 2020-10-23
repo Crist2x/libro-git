@@ -1,0 +1,1 @@
+En este capítulo veremos cómor usar GitHub para alojar repositorios en remoto.
